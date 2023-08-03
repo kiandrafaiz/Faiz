@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gambar Kecil</title>
+    <style>
+        /* Style untuk mengecilkan gambar */
+        img {
+            max-width: 300px; /* Atur lebar maksimum gambar */
+            max-height: 200px; /* Atur tinggi maksimum gambar */
+        }
+    </style>
+</head>
+<body>
+    <h1>Gambar Kecil</h1>
+    <p>Ini adalah contoh gambar yang sudah diperkecil:</p>
+    <img src="gambar.jpg" alt="Deskripsi Gambar">
+</body>
+</html>
